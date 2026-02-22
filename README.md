@@ -1,0 +1,3 @@
+This is my collection of all solutions of coderun problems from Yandex. I'll post python solutions of medium and hard problems, if possible with explanation.
+
+The repository will be constantly updated, but for now this simplicity...
