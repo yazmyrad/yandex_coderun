@@ -1,5 +1,5 @@
 """
-Docstring for problem_10
+Docstring for problem_11
 
 problem №11 - Поиск цикла
 link to the problem - https://coderun.yandex.ru/problem/cycle-search
